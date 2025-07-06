@@ -1,0 +1,16 @@
+{
+    "video_url": "https://www.tiktok.com/@rozhak_official/video/7502991464213892370",
+    "max_retries": 5,
+    "wait_times": {
+        "element_timeout": 10,
+        "retry_delay": 15,
+        "error_delay": 300
+    },
+    "ad_handling": {
+        "ad_timeout": 3,
+        "ad_check_interval": 1,
+        "post_ad_close_delay": 0.5,
+        "background_monitoring": true,
+        "monitoring_interval": 15
+    }
+}
